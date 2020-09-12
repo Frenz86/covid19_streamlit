@@ -322,8 +322,8 @@ st.markdown(
     <div class='row'>
         <div class='col-md-12'>
             <p style='font-weight: 400'>______</p>
-            <p style='font-weight: 400'>Designed, Developed and Maintained by Hetav Desai</p>
-            <p>Contact <a href='mailto:hetav.desai20@gmail.com'>hetav.desai20@gmail.com</a> to report issues<p>
+            <p style='font-weight: 400'>Designed, Developed and Maintained by Daniele Grotti</p>
+            <p>Contact <a href='mailto:visiont3lab@gmail.com'>visiont3lab@gmail.com</a> to report issues<p>
         </div>
     </div>
 <div>
