@@ -307,7 +307,7 @@ def show_country_stats(country):
 st.title('')
 st.title('Select Country from Dropdown below')
 
-country_name = st.selectbox('', list_all_countries, 71)
+country_name = st.selectbox('', list_all_countries, 85)
 to_show_overall = plot_cases_of_a_country(country_name)
 to_show_daily = plot_new_cases_of_country(country_name)
 show_country_stats(country_name)
@@ -322,7 +322,6 @@ st.markdown(
     <div class='row'>
         <div class='col-md-12'>
             <p style='font-weight: 400'>______</p>
-            <p style='font-weight: 400'>Designed, Developed and Maintained by Daniele Grotti</p>
             <p>Contact <a href='mailto:visiont3lab@gmail.com'>visiont3lab@gmail.com</a> to report issues<p>
         </div>
     </div>
